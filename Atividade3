@@ -1,1 +1,115 @@
 
+<html>
+<head>
+<title>Testando Títulos</title>
+<meta
+name="author" content=Denilce/>
+</head>
+<body>
+    <figure>
+        <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAATQAAACkCAMAAAAuTiJaAAAAyVBMVEX///9BVWGpDhA0S1g6UFymAACkAAAvR1Vicnw+Ul+HkpmmrrM4TlszSlg/U2Dr7e5pd4CAi5OwuLxMXmrL0NOfqK0qRFLe4eP3+PhXaHLEyMzS1tmXoKbw8fL9+PhwfoarFhjHzM+6wMTOiYn57e3mwcGsBQpPYWy2OTrJd3ja3d9ba3UbOkqTnKPHgICDjpXz4ODpysqwKivWnZ7EaWngs7PJeHj05OTnxcW5T1Dap6i/Xl+sFRe1MzW6T1DWnp65RUauISMNM0Q+DxEMAAAV/UlEQVR4nO1dC3uiutaWAY1oABUFRNHRXuxo7b3T3Xb2tPP9/x/1rZWAknARLZ6Z7uE9z9lTIeTykqxLLovauHUoukHtb8WKaoeBOtbvrvtvQ9NUDoRRkVaRtgcq0g5ARdoBqEg7ABVpB6Ai7QD8UaS1r+PW83W/9AJKwh9FWtegMTi90gsoCX8WaTRegFqRVgSflTTzd/qen5Q0s3ndLYhp+bMcn5Q0tf07K1ORdgAq0g5ARdoBqEg7ABVpB6Ai7QBUpB2AirQDUJF2ACrSrGXfn8/n/mxU2EktgTTPAngHPBjPI9iRyTFI80bt7pA4hBiqqhoGcRx7OuhnViJwQ1hTLV4XOnBl5LGx7LU6NpSFMOxOq7fcv+ZBf9BdKTwPh9jNVnuU5mGXTpo3n2qGqknzABoltDNPb3PbMThUXXhI0VRDxOUoq9BZVzEMqm9KNXV4WJ/6+/Q5q72CWmrbSpg6VQltthMjpWTSrJZuCN0lzoGhr9NGak/NeCABkk5aMLYJTUuvkfQS0zCbEvmlcegqmUoT76WSZl07qZXfgDqt5Lv/IGne2qHZM6nUuS5C22hIst61guQvhJLLJK1H8yljBSizxGMfIm2u7HicajsVitclqZ1sC510Y2+7PNK8qVOk4aYzLpE0KHT3fD3p5M+XjpTdL1uh+rbw0kizFgVK5m24Lo20goVqSt4QnZNC6yQm2fTYskgL7ByZIMHolkSapRUsVNfczJr3SNHinXm5pHl7cAaNH5RCmmXukERb6DSrr/mFhAqD6filktYtOjY5hNYfSpq32ONF6Yt0k80y9qm3apVI2jzjdZlmurgwlRJIm+71omi3lobhPiNE0VblkealDBOqgpVr27aig3+QuBsv50DS5klZpFOCvgiYoyl2KknYOoB2Wtngv2gaTR36XBmUQlqiaFM1uj2X+7yW25smDXZtO1ral5GbJNWTGjlulJfoxNRpDvquFQSBO2p3Ema20LujTJIjRDOcxRQ3r3cUJ+ncmIqXJE3BzrEbimAveoqUCbV7ogQJ1vKrj01huH6IWUdIRFszX0LM3hpLL0rTxoKsDwayajWSRu5YZlaj09mm6oE/TQwSVu8EaWYRiB1yJg0Ucp0Uuq4iFq+vku+9dl18asiTylSbCfVodURezUUiE6ntYAZLubhTqRyWyWEbYETSuiIfokGxqaAt9jUjxXLaYz6tLWo9sk5LtBZZI750XxaLJEU4SQUpzrIc0sTRmaGmaq7YgpTBsg9pQ3EkX6enEjPUptJtcf5OMVIFumT80kEppElsmFmOnihA0tpZnDRXaIk+zEq3iHNrElFseKJE0zLetlgrvVkKaaJIo6kDBREIqiopYfYhTdTXGfNsiboZ4rzYSBx5WU6DJWmLoAzSijZAGg3OR0gT9Cy+/Cws4u2j4gSLaCBqraw8xGoRtwzSxGGXwkUEkd2UTYHFSRP6iDHPTtiLp5SEWkskI/Nt98XuOiuDtHW87LRRF2EkFE6SCx+FSbOEnNSciR9B+EmVE3u+kZmHaAKDBiuBtOtLJ4ZMmSxrjJQ3W5g0gf40U3/bYDvWQNMQNMHqsDHeLoM0LxCQXbYoUUnymEBh0vycQSehGWdGFAkiF5kKTOqSYHOUYacVhSUMh4+QJojwvOZKljcRLOp4J8xtUpfEjjeQ8SclTVApNNUDiSC4ZqJIEJqUZmxHmI9jWPsJ0nRaBM6fRFr+G2wVJG2fTRASafq0PSiCbGMshJcCV3B9yutpY7b3Ih2BODyPQloJ2xL6vVZntUifUToKafkHRoT2/ZGkuYOmQwxN01MnlISSSiStOP5A0vyVmr4dIr0BFWngbAx3re1XpEnwus5elFWk7bMpYduAv500y9xr+ZA34C8nLVD2HJqsAX85aZ29x6ZSqp2mF4Xz55CWtu9Go1SVIVJbGmnmolMUK2EO73eSllg9NFViTteDtox1aVNDe/ieOfidpMkrg6qd3A/NIC4h/d2k2WIWRub01h9NWt7U0Ggex7IE0pbiJpK0VeoQRyItfz4tB8UnIZ2YZHYSk5AHkCZqMq2TnbI80oQ1pvyZ2xzYJU13H0CatKaTM9O2L2nZdZkXXyPIgbiwkvO2h/kLKweQJuyqMO2clDtJExciqbx3fot+8dWoaRxNYdmn8BKeuGCYWMLbnzRhjSz3fe0mTbRJsvZWAJbi8m3OumegxmckxdUoabE48wCauF6rJtYI9ictEDLIaWhtNtw13S17R5lZJd59JsQX5QjrnmJx2UJNIjexLWF/0sTVkmzSlk1pui2FtJmxK0UEYckyb1VfcrgE0sQepGgZS7aBIicrmbSsdWp3mphuS6HEFa2XnLEuDuQcG0sUHuL2S0/aNZTxwsWyMI+PD0+Ji7TXZbWc5NRRWj+S94RmWmDinhRFzZJHorcibwxqSn0/lXvpdAaO4o9rT2GkKGpyB483Tj2dl0aatDVRIVkKVFQ/immm64K+tPtSqpy0Gd9MY82XnEScXSrbTlOo1NWCtpE++ZVGmi/Pl6hKO/0MtrQvW0/dbiVNv5hErpv8MklXIh/GiJiC2TcfJ20gVX8YL9ddZx7HTCMtMWGimKpqr6ZRyLZt7Sz5BACZymZ1vyl1kqQV3JJZo7S7PWzv9a81OQGTGB8nTdJB8NLHS37qYjRY5Zw0TtWN65T0ph6ZWUZMJiXaq5HhuB++MM/113ZicSxpiSWoB9qIseq21utWd0hSDnmzgVTCLId89EKhqm4vbJMa6Udl8kgLcs93xQW5rIAAJiVQIhSNIQOSR7TTtOM6rTxdo5RqWlrluWoqgTT57Airv2kmuJSQboW1805fCtpv30NsaftVE6cbdkDnXmIJpCXEaTFkmK7NnNxEk6G116lDhaTuzF0WP+4JcNyySKsNCtXeVHdugGGvIGdlS7Kz9lrPST/Tss/B4q0hV8pqVIFDk6Zh+zsddgY3WxJKpHnN4it5JHPD+6BwX3MiW7sU0qycwBhhvkq7wCxHyJqd1YMSW/2nRUdoppVcwwg0BfPY+CflrLCP5KOaIqgzRiOkIGnZcSOS5yMGhXaQUEc+SibATznFmyw7dhytpL0cbva+BDA9WtwSL0oaaEZbTaMt5VDJcrhTJulkuiMITNDZFWXCFA41lhZiopO+0cpUSSsqrjhpNa+tEC3RkNSTOD0td1Mc2LwFQvT7dt5Y0Q1F6KqSo59+eq8Q/EUiXI9JnUV76+/tQRqg37KdeKAqBc8ap6bsrbKiDWmqmvCuMjBvQiZpuejUaUrWykotYdt2iFlHi0JpgetDDcNeCzV2HaGo3R3Anbc6Np7Dj7bwZ6lAd7zAKF7xwyk6VQ1lOt8jwDhkAo6EkAlGMBsOEsd5E7uhixeSgmA2ng7B6zXtVXfsy4V5YlEFY5t5QaHaWf54ujAchwAwYFxn3VvuHbEPM8HAdTwTddgd+H/BR1E8i4X8+1h8w8Bylx/OpEKFChUqVKhQoUKFChUqVPircHMGuD1iAZPJ5Ii5/wY8XdUbjTr8v/Fwc6wyMPNj5f078FivfwlRb5wcqZDGl/q3I2X9O3DWYGwBkLvGy3FK+W+RNvl1Dpyd3J6e3p4ga/XjyJ7/FmnY0eqhKDsD1hpnRynmv0XafT3WnGf4cRyp9t8i7STO01X9R/17+Pft27eHk8dosD4+PkIXvHk54Z3y9PHk4ftbXNfe3mPy0+2Fs5OH14f7yIzhpJ0+3sfTnL58f339Hn/okwB62vm/ycu3d2CEgBkSEjoBTfFee2jU+ej93uB3LyJO/vnFL2y072OdXag33p/YbyDtavKNWzZhmskDT3I8lX00/IMy7adsnz2CKj2voy0CXAEmX7+cvz+HIm9yAX+wmyGHkPw8Sv7KLtw3WIr6OfyXdST4ffcF80QNzUiKcsGHPp0Jd8cafwcj6Wlz7Qmv/bg6+QltbVzVGGnYYOgmwNIDNL7xevL9HElASk4x+a+rk+dGaLPc4B+vb4/3v+AZRmODm4G/fjKusaSTBjx99fLy/Xja53i4YbbtOQ7Fr1dhj/sGbb3iN6GJp5w06Cgn/9yeMka/sIQPoTxEZcJE4S38gWMdBSU3+KA7NVAuAmnnjWd86hXu3cO/YOrwTogPfbqu9vTawHHEmGtwNfDj/PyC33yp8xEJpNXfTzeXHvndX+fndzWmdBv8wgNwD//8BFN5+zwKPiDtF+9OT/yFPEGSUOe811kunwynLw//ouD+EsmkxkajPvF+gTItahh2o1DhYY+sYXc6/8UvPL7/vIB7N7c3YZ+9bfCx19j0ptNzRtrk5uYmzAWH+9HbeBRMbt/eGWu8X7ARVONNDEkL+x6S9muy+RN71EW9fiHnd/tygnioZ5CGRZ7dszQX55+VNAR6BKxB0MQ3fimVtPOdpIUWC9eNGaSdhFYJioZPRtrZ2ePWujwJld2OnraTtBuwWJANQCZpV6A9G2GSz0Yazm9sFP4jtPW5JpBWTxueP2TSIvv45uXxBe79hOv3T6eAx6zhCcLy/NctJpk8fzqZ9jOu8F9D2yGyrpggR+MhThoaGDfbh2uo/tg/New+dbAwkJfw+bMtaT/5lVOuPV9AQ/yzKfWTkfaGcizsVvcogbAlSAb3kNCauBFJQx45JbchuVchM7XJ3TnS9xTZbbU3sMZC0r7UvzJD5YUbd/ehLVI7BV3x2Ug7RTlc//Lt5OQb+jj1d7z4iG18u7n5B9lDsuKk1ZiZD0bFWyTlbxtsSu7m8YKzhXN09dvTp5dfja1MQ+v23/tHnLRDts6w752e3nxnc5+fjDRwPtncI1N04AxxpfAc+oXoKOFQFEi7bUQ3I6/xAa+gLgxdTXSN6udhnpueFrmzbKBOvpx/2SjYT0caNw9AieF8w0OoSCfgJZxzLtkYmsBf27mQs7Cl9Y2n/cBMY7jA/asJZMk4e3sMJ0bg/rcXplDBz2WFnKHqZDMlr3D9f9jeknB79Xxxd/f++vYUu/ZwV69//fnG9eTk9fk55h9O7t9/AIvfbmPJL77+uHvdrDDcv9/9+wyK9Pbn609M9f76fF+bvD3f3T1HaW4eLu4uHuDm1fPz6zGbdzwk1yUnYA3kpD+V5w4nYvL0hU7x6n9sLbRChQoVKlSoUKFChQoVPgvcbisnbOYWg1ZLPkY9a3Wanet5+cdQR+Npp3Pd+1jG61b3YwesczBytMsCyeYOFT9BVxvZhGoaHnLfI8h4Ebgrh2Ws5sTCLoCFmhbLqRyMiEJ2p3IN6dMJLPKJShXNMJUPxRlIFqVqmLEC+WdHySmAoU5+M2lNW5ECNNi6QnuWZ80WuumkfFj8YCx4xsGoSRWnYGSJNPx+0hKYkyhknqcdHqw8BTOyoWqhHxzQu/a/Is3tjQd+JHw9fxD7ZfXGYzE4RpduGjSm2qpWC3x/WfPmbfbIbLBubzrJEh7u8b7o+7Nard8ebyKxuL31WNQkLW2T8dzQw4DB/W1+vg8Pj9oDFg/E8jfgBcwGrXWPc7UhbdReDzbRQ9zeYNz+QP/liEizmhiu3wjlU88h8IM4XMa3LtmteEyplb4JGz0nFNrWv3TWPiFYUZ/iww6PxWkN2WcAnA5Sc0kWM9tR4T7rpUGHlxkPhNvcZuyqio1PzTSWn41t9QhRXMzSWXlYKMbeIIbB8+hjQki5jpHm2lgG0RhR3pQXaH9QnoSkeTbVVcVUeXgx31HUYWcBv6Bn1KaGThcL1YxH4hqa21i4nuexfBaQBVS075iGPTSppniYr0aVZhPuYGBlQ1FUDf5n6nivFpUZzxjehphxrU8wL0p1FJ2ejsFFVUrZtzn6LBoNxvnBMI+uYVJlhbVub0izQA0rQ0XVmTDpqLrebCoaq9rHSRur2sqteT1DcQKsOUW2ekRtolGir6B4VzFjOnxoGr6cj2kMBzA8hyxcrdei2BCfsEDglk2xyUCa0xkFS9vEMIUDVccy50Y80GOcNI6FbqyDmnVN8dMSSBppjqw2sB1Fo/GmmkldDGXKhOuMmthBOWldquIb6Rn4sOXow4Bx5+R8v7w4aUNdYxUfU6yzzWNN4mcAMAAr/6bD3Ig1J400yoa25YTx0ikGyG6r/KFep7NE0jQmXeYqfh2kqfNw+gMaM/Ui0tw+A8Y2CkOJL3Q1QNIou69tg8W3Df79rVUonacs+D4nzdT5h747mhZAHTU2ckedThmkwSgahj8xjlhTo91RJPjhZbE/XRILMZZCWsgV5MApaGoKvHbHXMw3/cgIPw/RJ3Rc88C4YL+WJPalh4i0ARNXBrY0/PxKC7nw9PBrD7YZkdYDfcseCTx+pcXscEZaoIW1WlPVrQWXitIuwzzakLaKmtxmzaDEIcMxNrermQS/zU7iocuH21EUuK6LD9LrKEPKvuWumzCAah2igUJRun4aafyXm0qaY2B8xCCsEWs3jPAkaSB/o9CYyy4rWVO2pIH5zSpDTQOurR1NJQ6dftBDwzY6CdJqbkuhqgGezIh/zpt/Ty1GGii5qNv1Lh1FIM2MPtFmstsryMbQnOtipHXCjL0gGKkonHaQtjQ2emQGlKBiMAXSosogaTW/o2FlyPDDpEnDM2QmcP0ps8BgeCYfa9HNZwHgz45AWuIbFu5owKPLFhiea7r5GsLMwA87xIdnkjSXmmo04aBAJ7WCwOtqMdISEZitUW+RGkl+D/gq+6CHoAisZocXtcDO0kJxgGysVlvx2XeiOL0uH7Yb0lwnDMXXbAKX42aTmWRtijIQFAFXC6rKFIEaKoIYzSPIOJSWUKdrpgg6YWWMQCYtUHQa2cJBpDE6+oY0TwtH0LoJFsC8yaP1jYycz+Xsxqxtm8wCHxtaE1owp8olSH2Nqlhxn6Lu8YneCTAeLWVWW4gVWEqt/nI00Hiw+w1pHlhe+DDYK0gaYR3Ba+oO054KGfpWX2HEDAy96bLXFp+P6FBFHS8t119R7tTaujH20ITRmjWJNG+oKYsokp3nKGB+eT2FbocnaE2Dmb061dj4ZSZHi35oZmZKTJO5eh5YfKpOVR4Htg3Grd20DZNFSV2pmmHbhqbGv9NhQd0omOJU0VnP2JBWm4NxqyzAgsWMLapTuhoaceNWVU0mDDwFjFuNGmL82sBWMWMV7FDukICxTFVdBQqXMmkjDG6LtTCcFsa+NrUFiCwlRppL4MmFAi3BvND8Hq4wDvpHNMHUIdzsqVkrUFc0cmkG4EYZBuEjMHI+pkJJQRcfoAYZMisO3KhIevSYG0UU1i+XNuYUPmyYw9EKbhKbu1jguoF574hjxbtmGUOisGOjWwY/FTTxPIfwT0Np5P+ANO5GYRjDFr5HArpxOOo6l0Ca7VxiISMFXSvChRj4bQa2a/ghu2PZ30b3X7bXW6/cm7UHva2bOx8M5pb8sDUfryNXvBbMYlnN2uO4wz5ohw8zD3zZ623vxcvcIPAHkHHsuwPwO/K5mcHL/p2xQiOwavhtfGrZn6Ffx/5bQ4d93J5F7xta0p6XOZN1fGymLSoUR0XaASA07yt7FVLR6XxgKrZk/D/JcP/aIseGugAAAABJRU5ErkJggg==" alt="Texto alternativo" width="350" height="200">
+        
+    </figure>
+
+</body>
+<body>
+<H1>Indústria 4.0</H1>
+
+   <H2> O que é a Indústria 4.0?</H2>
+<p>
+A indústria 4.0 engloba a automação e tecnologia da informação e todas as principais inovações dessa área. <br>
+O que muda a inovação e integração das maquinas da indústria 4.0, é que ela busca a máxima potencia das maquinas e robôs, fazendo-os desempenhar funções cada vez mais complexas na industrias.<br>
+
+<H2>Indústria 4.0 princípios</H2>
+
+Seis princípios caracterizam o termo Indústria 4.0<br>
+
+O termo indústria 4.0 surgiu de um projeto de um grupo de trabalho presidido Siegfried Dais e Henning Kagermann.<br>
+
+Em 2012, eles apresentaram um relatório de recomendações para o governo alemão, planejando a implementação e desenvolvimento do que chamaram de indústria 4.0.<br>
+
+Segundo eles, seis princípios caracterizam o projeto. São os seguintes:<br>
+
+1. Tempo real: a capacidade de coletar e tratar dados de forma instantânea, permitindo uma tomada de decisão qualificada em tempo real<br>
+
+2. Virtualização: é a proposta de uma cópia virtual das fábricas inteligentes, graças a sensores espalhados em toda a planta. Assim, é possível rastrear e monitorar de forma remota todos os seus processos<br>
+
+3. Descentralização: é a ideia da própria máquina ser responsável pela tomada de decisão, por conta da sua capacidade de se autoajustar, avaliar as necessidades da fábrica em tempo real e fornecer informações sobre seus ciclos de trabalho<br>
+
+4. Orientação a serviços: é um conceito em que softwares são orientados a disponibilizarem soluções como serviços, conectados com toda a indústria<br>
+
+5. Modularidade: permite que módulos sejam acoplados e desacoplados segundo a demanda da fábrica, oferecendo grande flexibilidade na alteração de tarefas<br>
+
+6. Interoperabilidade: pega emprestado o conceito de internet das coisas, em que as máquinas e sistemas possam se comunicar entre si.<br>
+
+
+	
+
+
+<h2>Pilares da indústria 4.0</h2>
+
+<OL>
+
+<li><b>Internet das Coisas</b></li> <br>
+
+A internet das coisas, também conhecida pela sigla IoT (de Internet of Things), é um conceito que trata da conexão de aparelhos físicos à rede.<br>
+
+Não se trata de ter mais dispositivos para acessar a internet, mas sim a hiperconectividade ajudando a melhorar o uso dos objetos.<br>
+
+Isso acontece dentro das residências (televisão, ar condicionado, geladeira e campainha conectados, por exemplo).<br>
+
+Mas também nas indústrias, com máquinas gerando relatórios instantâneos de produção para o software de gestão na nuvem.<br>
+
+Essa possibilidade é uma das bases da indústria 4.0.<br>
+<p></p>
+<li><b>Big Data</b></li> <br>
+
+Big Data é o termo utilizado para se referir à nossa realidade tecnológica atual, em que uma quantidade imensa de dados é coletada e armazenada diariamente na rede.<br>
+
+Também é um conceito-chave para a Quarta Revolução Industrial, porque são esses dados que permitem às máquinas trabalharem com maior eficiência.<br>
+
+Eis aqui uma questão que um filósofo julgaria um paradoxo: são desenvolvidos algoritmos que permitem aos robôs tratarem e aproveitarem grande parte desses dados.<br>
+
+Afinal, os humanos não têm a capacidade de fazer isso por conta própria.<br>
+
+A ironia é que esses algoritmos são criados por cientistas da computação, que são seres humanos.<br>
+<p></p>
+<li><b>Inteligência artificial</b></li> <br>
+
+Com o big data (coleta, armazenamento e tratamento de dados) e da internet das coisas (conexão entre máquinas e sistemas), uma fábrica tem as ferramentas básicas para entrar na Quarta Revolução Industrial.<br>
+
+Para uma atuação realmente inovadora, no entanto, falta a inteligência artificial (IA), que é o que permite a tomada de decisão da máquina sem a interferência humana.<br>
+
+Essa é uma questão bastante polêmica e temida por muitos que tentam enxergar o futuro da IA a longo prazo, tema que abordaremos mais adiante.<br>
+
+<p></p>
+<li><b>Segurança</b></li> <br>
+
+A segurança do trabalho está longe de ser uma questão nova.<br>
+
+Está entre as maiores preocupações de grandes empresas, que dedicam diretorias inteiras para cuidar da área.<br>
+
+O problema é que quase todo o conhecimento acumulado ao longo de décadas sobre o assunto foca no comportamento humano.<br>
+
+Com fábricas cada vez mais automatizadas e máquinas inteligentes, o viés da segurança do trabalho muda um pouco.<br>
+
+A preocupação passa a ser menos manuais de conduta e mais robustez nos sistemas de informação e prevenção de problemas na comunicação entre as máquinas.<br>
+<p></p>
+<li><b>Computação em nuvem</b></li> <br>
+
+Na computação em nuvem, os sistemas são armazenados em servidores compartilhados e interligados pela internet, de modo que possam ser acessados em qualquer lugar do mundo.<br>
+
+No contexto da indústria 4.0, isso permite ultrapassar os limites dos servidores da empresa e ampliar as possibilidades de conectividade entre sistemas.<br>
+
+Tudo isso com menos custo e de forma mais ágil e eficiente que o modelo antigo.<br>
+
+</OL>
+
+<h2>Conclusão</h2> <br>
+
+Percebemos um grande futuro na indústria 4.0 e como ela está cada vez mais presente no dia a dia dos negócios, isso só aumentará com o tempo, otimizando cada vez mais a indústria.<br>
+
+
+</p>
+</body>
+</html>
