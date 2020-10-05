@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Atividade 6</title>
+    <script>
+
+        var escolha = prompt ("Pedra, Papel ou Tesoura?").toLowerCase();
+        var escolhapc = Math.random();
+
+
+
+        if (escolhapc < 0.34){
+            escolhapc="pedra";
+        } else if (escolhapc <=0.67){
+            escolhapc="papel";
+        } else {
+            escolhapc="tesoura";
+        }
+
+        console.log("computador:"+ escolhapc); 
+
+        var comparar = function (escolha1, escolha2){
+
+            if (escolha1 === escolha2) {
+                return("Empate!!");
+            }
+            else if (escolha1 === "papel"){
+                    if (escolha2 === "pedra"){
+                    return ("Papel ganhou")
+
+                    }else{
+                        return ("Tesoura ganhou")
+                }
+            }
+
+            else if (escolha1 === "pedra") {
+                    if (escolha2 === "tesoura"){
+                    return ("Pedra ganhou")
+
+                     } else {
+                        return ("Papel ganhou")
+
+            }
+        }
+
+        else if (escolha1 === "tesoura") {
+                if (escolha2 === "pedra"){
+                return "Pedra ganhou"
+
+                }else {
+                    return "Tesoura ganhou"
+
+            }
+
+        }
+        }
+        alert(comparar(escolha,escolhapc))
+    </script>
+</head>
+
+<body>
+
+</body>
+
+</html>
