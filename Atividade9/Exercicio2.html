@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+	<meta charset="UTF-8">
+	<title>Objetos</title>
+</head>
+
+<body>
+	<script>
+        function Conta() {
+            var nome, banco, numero, saldo;
+            this.getNome = function(){
+                return nome;
+            };
+            
+                this.setNome=function(value){
+                    nome= value;
+                }
+
+                this.getBanco = function(){
+                return banco;
+            };
+            
+                this.setBanco=function(value){
+                    banco= value;
+                }
+
+                this.getNumero = function(){
+                return numero;
+            };
+            
+                this.setNumero=function(value){
+                    numero= value;
+                }
+                
+                this.getSaldo = function(){
+                return saldo;
+            };
+            
+                this.setSaldo=function(value){
+                    saldo= value;
+                }
+
+                
+            };
+
+            function Corrente() {
+                var saldoE;
+                this.getSaldoE=function(){
+                return saldoE; 
+                }
+                this.setSaldoE=function(value){
+                saldoE= value; 
+                }
+            };
+
+            function Poupanca(){
+                var juros,data;
+                this.getJuros=function(){
+                return juros; 
+                }
+                this.setJuros=function(value){
+                juros= value; 
+                }
+                this.getData=function(){
+                return data; 
+                }
+                this.setData=function(value){
+                data= value; 
+                }
+            }
+
+        Corrente.prototype = new Conta();
+        Poupanca.prototype = new Conta();
+
+        nCorrente = new Corrente();
+        nPoupanca = new Poupanca();
+        
+        nCorrente.setNome("Rafael Marinelli");
+        nCorrente.setBanco("Bradesco");
+        nCorrente.setNumero(12345);
+        nCorrente.setSaldo(450,00);
+        nCorrente.setSaldoE(2000,00);
+
+        nPoupanca.setNome("Julio");
+        nPoupanca.setBanco("Itau");
+        nPoupanca.setNumero(12445);
+        nPoupanca.setSaldo(550,00);
+        nPoupanca.setJuros("30%");
+        nPoupanca.setData("10/09/2020");
+
+        alert(nCorrente.getNome() + '\n' + nCorrente.getBanco() + '\n' + nCorrente.getNumero() + '\n' + nCorrente.getSaldo() + '\n' + nCorrente.getSaldoE());
+        alert(nPoupanca.getNome() + '\n' + nPoupanca.getBanco() + '\n' + nPoupanca.getNumero() + '\n' + nPoupanca.getSaldo() + '\n' + nPoupanca.getJuros() + '\n' + nPoupanca.getData());
+	</script>
+</body>
+
+</html>
