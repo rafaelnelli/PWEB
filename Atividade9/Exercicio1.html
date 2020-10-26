@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+	<meta charset="UTF-8">
+	<title>Objetos</title>
+</head>
+
+<body>
+	<script>
+		function retangulo(base,altura) {
+			this.base = altura;
+			this.altura = altura;
+		
+
+			this.calcArea= function () {
+                var area=this.base*this.altura;
+				var result = "Area do rentangulo:" + area ;
+				alert(result);
+			}
+
+		};
+        var ret1= new retangulo(5,10);
+        ret1.calcArea();
+        
+	</script>
+</body>
+
+</html>
